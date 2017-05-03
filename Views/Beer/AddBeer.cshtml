@@ -1,0 +1,48 @@
+﻿@model RateMyBeer.Models.Beer
+
+@{
+    ViewBag.Title = "AddBeer";
+}
+
+<head>
+    <script>
+        function submitForm() {
+            document.getElementById("newBeerForm").reset();
+        }
+    </script>
+</head>
+
+<div>
+    <h2>Add a New Beer</h2>
+
+    @using (Html.BeginForm("Create", "Beer", FormMethod.Post, new { id ="newBeerForm", enctype = "multipart/form-data" }))
+    {
+        @Html.ValidationSummary()
+
+        @Html.ValidationMessageFor(b => b.Name)<br />
+            @Html.LabelFor(b => b.Name)<br />
+            @Html.TextBoxFor(b => b.Name)<br /><br />
+            
+            @Html.LabelFor(b => b.Style)<br />
+            @Html.TextBoxFor(b => b.Style)<br /><br />
+            
+            @Html.LabelFor(b => b.ABV)<br />
+            @Html.TextBoxFor(b => b.ABV)<br /><br />
+
+            @Html.LabelFor(b => b.BreweryName)<br />
+            @Html.TextBoxFor(b => b.BreweryName)<br /><br />
+
+            @Html.LabelFor(b => b.Price)<br />
+            @Html.TextBoxFor(b => b.Price)<br /><br />
+
+            @Html.LabelFor(b => b.Description)<br />
+            @Html.TextBoxFor(b => b.Description)<br /><br />
+
+            <div>
+                <strong>Select Image</strong>
+                <input type="file" name="file" />&nbsp;&nbsp;&nbsp;<br/>
+                <input id="Submit1" type="submit" value="Add" />
+                <input id="Reset1" type="button" value="Clear" onclick="submitForm()" />
+            </div>
+    }
+</div>

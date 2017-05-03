@@ -1,0 +1,58 @@
+﻿@model RateMyBeer.Models.ContactForm
+@{
+    ViewBag.Title = "Contact Us";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Contact Form</title>
+
+    <script>function submitForm() {
+    document.getElementById("newContactUSForm").reset();
+}
+    </script>
+
+</head>
+<body>
+    <h1>Contact Us</h1>
+    <div>
+        @using (Html.BeginForm("AddMessage", "Home", FormMethod.Post, new { id = "newContactUsForm" }))
+        {
+            @Html.ValidationSummary()
+
+            @Html.ValidationMessageFor(b => b.Name)<br />
+
+            @Html.LabelFor(b => b.Name)<br />
+            @Html.TextBoxFor(b => b.Name, new { @class = "form-control"} )<br /><br />
+            @Html.LabelFor(b => b.Email)<br />
+            @Html.TextBoxFor(b => b.Email, new { @class = "form-control" })<br /><br />
+            @Html.LabelFor(b => b.Subject)<br /><br />
+            @Html.TextBoxFor(b => b.Subject, new { @class = "form-control" })<br /><br />
+
+            @Html.LabelFor(b => b.Message)<br />
+            @Html.TextAreaFor(b => b.Message, new { @class = "form-control" })<br /><br />
+
+
+
+
+
+            <input type="submit" value="Add" />
+
+            <input id="Reset1" type="button" value="Clear" onclick="submitForm()" />
+        }
+
+        <address>
+          Rate My Beer<br />
+            Dublin, Ireland<br />
+        </address>
+
+        <address>
+            <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@ratemybeer.com</a><br />
+            <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@ratemybeer.com</a>
+        </address>
+    </div>
+</body>
+</html>

@@ -1,0 +1,90 @@
+﻿@model PagedList.IPagedList<RateMyBeer.Models.Brewery>
+
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "AllBreweries";
+}
+
+<!--LEFT SIDE OF PAGE-->
+<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+    <div class="panel panel-default visible-lg">
+        <div class="panel-heading">
+            <h4>Styles</h4>
+        </div>
+        <div class="panel-body">
+            <ul id="cat-navi2" class="nav nav-list ">
+                <li class="active">
+                <li>@Html.ActionLink("Ales", "AllAles", "Beer")</li>
+                <li>@Html.ActionLink("Stouts", "AllStouts", "Beer")</li>
+                <li>@Html.ActionLink("IPAs", "AllIpas", "Beer")</li>
+                <li>@Html.ActionLink("Blondes", "AllBlondes", "Beer")</li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- panel Twitter-->
+    <div class="visible-lg">
+        <div class="panel panel-success text-center">
+            <div class="panel-body">
+                <p class="lead"> Follow us on Twitter</p>
+                <a class="twitter-timeline" data-height="600" href="https://twitter.com/ratebeer"></a>
+                <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+        </div>
+    </div>
+    <!-- / panel Twitter-->
+
+</div>
+
+
+<!--RIGHT SIDE OF PAGE-->
+
+<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 ">
+    <div class="row">
+        <hr>
+        <div class="container-folio row">
+
+            <!-- ALL BEER GRID
+            ============================================================ -->
+            @foreach (var brewery in Model)
+            {
+
+                <div class="col-xs-6 col-sm-6 col-md-4 col-lg-4 " >
+                    <div class="thumbnail" id="brewrys">
+                        <!-- IMAGE CONTAINER-->
+                        <!-- Caption -->
+                        <div class="caption">
+                            <h3 class="">@brewery.Name</h3>
+                            <p class="description">@brewery.Location</p>
+                            <div class="row">
+                               
+                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+
+                                    <!-- Added overload to actionlink below passing beerId through to individual beer page -->
+                                    @Html.ActionLink("Read More", "SingleBrewery", "Home", new { breweryName = @brewery.Name }, new { @class = "btn btn-success btn-block" })
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Caption-->
+                    </div>
+                </div>
+            }
+            <!-- End of Loop-->
+            <!-- Contents of element below implement simple Pagination -->
+            <div class="col-sm-10">
+                @*<div class="center">
+                    @Html.PagedListPager(Model, page => Url.Action("AllBeers",
+                        new { page, pageSize = Model.PageSize }))
+                    Showing @Model.FirstItemOnPage to @Model.LastItemOnPage
+                    of @Model.TotalItemCount Beers
+                </div>*@
+            </div>
+            <!-- / All Beer GRID
+            ======================================= -->
+        </div>
+        <!-- /INNER ROW-->
+        <hr>
+    </div>
+</div>

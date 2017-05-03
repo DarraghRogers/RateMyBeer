@@ -1,0 +1,55 @@
+﻿@model RateMyBeer.Models.WriteReviewViewModel
+
+@{
+    ViewBag.Title = "WriteReview";
+}
+
+<head>
+    <script>
+        function submitForm() {
+            document.getElementById("newReviewForm").reset();
+        }
+    </script>
+</head>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="content clearfix">
+            <h1>Write Your Review</h1>
+            <div class="user-review-product clearfix">
+                <img class="img-responsive img-thumbnail" src="@Url.Content(Model.Beers.Image)" style="width: auto; height: 220px;" alt="Beer Image" />
+                <p class="name"><a href="product.html">@Model.Beers.Name</a></p>
+
+                <p>@Model.Beers.Description</p>
+            </div>
+        </div>
+        <div class="row">
+               <div class="content inner">
+
+                    @using (Html.BeginForm("CreateReview", "Review", new { beerId = @Model.Beers.BeerID }, FormMethod.Post))
+                    {
+                        @Html.ValidationSummary()
+
+                        @Html.ValidationMessageFor(r => r.Reviews.Title)<br />
+                        @Html.LabelFor(r => r.Reviews.Title)<br />
+                        @Html.TextBoxFor(r => r.Reviews.Title, new { @placeholder = "Great Beer!" })<br /><br />
+
+                        @Html.LabelFor(r => r.Reviews.ReviewBody)<br />
+                        @Html.TextAreaFor(r => r.Reviews.ReviewBody, new { @cols = "80", @rows = "4", @placeholder = "Tasting notes" })<br /><br />
+
+                        @Html.LabelFor(r => r.Reviews.Rating)<br />
+                        @Html.RadioButtonFor(r => r.Reviews.Rating, 1)@Html.Label("1") 
+                        @Html.RadioButtonFor(r => r.Reviews.Rating, 2)@Html.Label("2")
+                        @Html.RadioButtonFor(r => r.Reviews.Rating, 3)@Html.Label("3")
+                        @Html.RadioButtonFor(r => r.Reviews.Rating, 4)@Html.Label("4")
+                        @Html.RadioButtonFor(r => r.Reviews.Rating, 5)@Html.Label("5")<br/>
+
+                        <div>
+                            <input id="Submit1" type="submit" value="Add Review" />
+                            <input id="Reset1" type="button" value="Clear" onclick="submitForm()" />
+                        </div>
+                    }
+                </div>
+        </div> 
+    </div>
+</div>

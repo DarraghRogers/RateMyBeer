@@ -1,0 +1,30 @@
+﻿@model RateMyBeer.Models.Member
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<div class="registerLayout">
+
+    @using (Html.BeginForm("Register", "Home", FormMethod.Post))
+    {
+        <span style="color:red">
+            @Html.ValidationSummary()
+        </span>
+
+            @Html.LabelFor(m => m.UserName)<br />
+            @Html.TextBoxFor(m => m.UserName)<br /> <br />
+
+            @Html.LabelFor(m => m.Email)<br />
+            @Html.TextBoxFor(m => m.Email)<br /><br />
+
+            @Html.LabelFor(m => m.Password)<br />
+            @Html.PasswordFor(m => m.Password)<br /> <br />
+
+            @Html.LabelFor(m => m.ConfirmPassword)<br /> <br />
+            @Html.PasswordFor(m => m.ConfirmPassword) <br /> <br />
+
+            <input type="submit" value="Register" />
+    }
+
+</div>

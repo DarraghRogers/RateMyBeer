@@ -1,0 +1,100 @@
+﻿@model RateMyBeer.Models.ViewModelSingleBeer
+
+@{
+    ViewBag.Title = "SingleBeer";
+}
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-4 col-md-offset-2">
+            <div class="content">
+                <img class="img-responsive" src="@Url.Content(Model.Beers.Image)" id="singlebeerbeer" alt="Beer Image" />
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="content">
+                <h1>@Model.Beers.Name</h1>
+                <small>@Model.Beers.BreweryName</small>
+                <div class="ratings clearfix">
+                    <div class="rateit" data-rateit-value="4.6" data-rateit-ispreset="true" data-rateit-readonly="true"><div class="rateit-reset" style="display: none;"></div><div class="rateit-range" style="width: 80px; height: 16px;"><div class="rateit-selected rateit-preset" style="height: 16px; width: 73.6px;"></div><div class="rateit-hover" style="height:16px"></div></div></div>
+                    <div class="extra">
+                        <a href="#reviews">Read all reviews</a> | @if (@Session["memberName"] != null) {@Html.ActionLink("Write a review", "WriteReview", "Review", new { beerId = @Model.Beers.BeerID }, null)}
+                        <div class="pricing clearfix">
+                            <strong>Style</strong><p class="special">@Model.Beers.Style</p>
+                            <strong>ABV</strong><p class="special">@Model.Beers.ABV</p>
+                            <strong>Price</strong><p class="special">&euro; &nbsp; @Model.Beers.Price</p>
+                            <strong>Brewery</strong><p class="special">@Model.Beers.BreweryName</p>
+                            <strong>Rating</strong><p class="special">@Model.Beers.Rating</p>
+
+
+                        </div>
+                        <ul class="nav nav-tabs" id="product-tabs">
+                            <li class="active">Description</li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="description">
+                                <br />
+                                <p>@Model.Beers.Description</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row" id="reviews">
+            <div class="col-xs-12">
+                <div class="review-overview">
+                    <div class="content clearfix">
+                       <h2>Reviews</h2> 
+                        <!-- Review average -->
+                        <div class="review-main">
+
+                            <p>@Model.Beers.Rating</p>
+                            @if (@Session["memberName"] != null) {@Html.ActionLink("Write a review", "WriteReview", "Review", new { beerId = @Model.Beers.BeerID }, null)}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-review">
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <!-- Start of Loop-->
+                            @foreach (var review in Model.Reviews)
+                            {
+                                <div class="content">
+                                    <header>
+                                        <div class="rateit" data-rateit-value="4.5" data-rateit-ispreset="true" data-rateit-readonly="true">
+                                            <div class="rateit-range" style="width: 80px; height: 16px;">
+                                                <div class="rateit-selected rateit-preset" style="height: 16px; width: 72px;"></div>
+                                                <div class="rateit-hover" style="height:16px"></div>
+                                            </div>
+                                        </div>
+                                    </header>
+                                    <strong>@review.Title</strong>
+                                    <p>@review.ReviewBody</p>
+                                    <p>@review.Rating</p>
+                                    <small>Posted by <strong>@review.UserName</strong> at @review.Date</small>
+
+                                    <footer>
+                                        
+                                    </footer>
+                                </div>
+                            }
+                           
+                            <!-- End of Loop -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

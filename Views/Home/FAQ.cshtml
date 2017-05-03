@@ -1,0 +1,103 @@
+﻿@{
+    ViewBag.Title = "FAQ";
+}
+
+<h3>@ViewBag.Message</h3>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>RateMyBeer FAQ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+</head>
+<body>
+    <div class="container">
+        <div class="page-header">
+            <h1>RateMyBeer<small> Frequently Asked Questions</small></h1>
+        </div>
+        <!-- Bootstrap FAQ - START -->
+        <div class="container">
+            <br />
+            <br />
+            <br />
+            <div class="panel-group" id="accordion">
+                <div class="faqHeader">General questions</div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Is account registration required?</a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            Account registration at <strong>RateMyBeer</strong> is only required if you will be reviewing and updateding the catalog.
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">Can I submit my own Beers to the site?</a>
+                        </h4>
+                    </div>
+                    <div id="collapseTen" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            A lot of the content of the site has been submitted by the community. However we do retain some control as to what is published on our site.
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven">What is the currency used for all transactions?</a>
+                        </h4>
+                    </div>
+                    <div id="collapseEleven" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            All <strong>Estimated</strong>Prices are in<strong>EUR</strong>
+                        </div>
+                    </div>
+                </div>
+               
+            </div>
+        </div>
+        <style>
+            .faqHeader {
+                font-size: 27px;
+                margin: 20px;
+            }
+
+            .panel-heading [data-toggle="collapse"]:after {
+                font-family: 'Glyphicons Halflings';
+                content: "\e072"; /* "play" icon */
+                float: right;
+                color: #F58723;
+                font-size: 18px;
+                line-height: 22px;
+                /* rotate "play" icon from > (right arrow) to down arrow */
+                -webkit-transform: rotate(-90deg);
+                -moz-transform: rotate(-90deg);
+                -ms-transform: rotate(-90deg);
+                -o-transform: rotate(-90deg);
+                transform: rotate(-90deg);
+            }
+
+            .panel-heading [data-toggle="collapse"].collapsed:after {
+                /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+                -webkit-transform: rotate(90deg);
+                -moz-transform: rotate(90deg);
+                -ms-transform: rotate(90deg);
+                -o-transform: rotate(90deg);
+                transform: rotate(90deg);
+                color: #454444;
+            }
+        </style>
+        <!-- Bootstrap FAQ - END -->
+    </div>
+</body>
+</html>
+
+

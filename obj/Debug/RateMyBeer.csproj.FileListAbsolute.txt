@@ -1,0 +1,206 @@
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.exe
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.exe
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.dll.config
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.pdb
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Antlr3.Runtime.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.SqlServer.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Web.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Newtonsoft.Json.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Owin.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Helpers.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Mvc.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Optimization.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Razor.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\WebGrease.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Web.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Helpers.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Mvc.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Optimization.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Razor.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Antlr3.Runtime.pdb
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Newtonsoft.Json.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.SqlServer.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.pdb
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.exe.config
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.rsp
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csi.exe
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csi.rsp
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.AppContext.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.exe.config
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.rsp
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.Mvc.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.Mvc.xml
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\BCrypt.Net.dll
+C:\Users\Brian\Desktop\RateBeer\RateMyBeer\RateMyBeer\bin\BCrypt.Net.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.exe
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.exe.config
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csc.rsp
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csi.exe
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\csi.rsp
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.AppContext.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.exe
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.exe.config
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\vbc.rsp
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.dll.config
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\RateMyBeer.pdb
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Antlr3.Runtime.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\BCrypt.Net.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.SqlServer.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Web.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Newtonsoft.Json.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Owin.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.Mvc.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Helpers.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Mvc.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Optimization.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Razor.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\WebGrease.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Antlr3.Runtime.pdb
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\BCrypt.Net.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.Web.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Newtonsoft.Json.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\PagedList.Mvc.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Helpers.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Mvc.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Optimization.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.Razor.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\EntityFramework.SqlServer.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.csprojResolveAssemblyReference.cache
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.dll
+C:\Users\Darragh\Desktop\MVC REPORTS&PRESENTATIONS\RateBeer\RateBeer\RateMyBeer\RateMyBeer\obj\Debug\RateMyBeer.pdb

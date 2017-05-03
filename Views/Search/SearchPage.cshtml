@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Search";
+}
+
+<head>
+    <script>
+        function submitForm() {
+            document.getElementById("newBeerForm").reset();
+        }
+    </script>
+</head>
+
+<h2>Search by Beer name</h2><br/>
+
+
+@using (Html.BeginForm("Search", "Search", FormMethod.Post, new { id = "newBeerForm" }))
+{
+
+       @Html.TextBox("searchString")
+
+    <div>
+        <input type="submit" value="Search" />
+    </div>
+}

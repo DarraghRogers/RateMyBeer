@@ -1,0 +1,92 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/************************
+    REVIEW PAGE
+    ***************************
+*/
+
+
+.user-review-product {
+  padding: 10px;
+  background-color: #ebebeb;
+  -moz-border-radius: 5px;
+ 
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  position: relative; }
+  .user-review-product img {
+    float: left;
+    margin-right: 10px; }
+  .user-review-product .name {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0; }
+
+
+
+
+
+
+ .description{
+  
+  
+  height: 100px;
+ }
+
+
+
+ #logo{
+     max-height: 25px;
+     background-image: url('img/logo2.png');
+ }
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    font-size: 14px;
+    transition: 0.3s ease;
+}
+
+.nav > li > a:hover{
+    border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
+  
+}
+
+
+#singlebeerbeer{
+    max-height: 395px;
+}
+
+#username{
+        top: 20px;
+    left: 15px;
+    color: #fff;
+}
+
+
+#brewrys{
+        min-height: 268px;
+}
